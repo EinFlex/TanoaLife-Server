@@ -1,4 +1,4 @@
-# Changelog
+Changelog
 Current Version: 0.0.1r2
 Last edited by: Martin
 
