@@ -5,5 +5,15 @@ Last edited by: Martin
 Changes:
 Were:                                         What:                                     Who:              Version:
 core\functions\fn_keyHandler.sqf              Interaction key changed to <|>            Flex              0.0.1
-dialoge\functions\fn_spawnPoint.cfg           Spawnpoint Names Edited                   Flex              0.0.1r1
+dialoge\functions\fn_spawnPointCfg.sqf        Spawnpoint Names Edited                   Flex              0.0.1r1
                                                                                         Martin            0.0.1r2
+0.0.1 | Flex | Interaction key changed to <|> @TonaLife.Tanoa.pbo\core\functions\fn_keyHandler.sqf
+0.0.1r1 | Flex | Renamed Copspawns and removed a spawn @TanoaLife.Tanoa.pbo\dialog\functions\fn_spawnPointCfg.sqf
+0.0.1r2 | Flex | Added Experimental Bar Gate Script @TanoaLife.Tanoa.pbo\barGateRemote
+--------| Matrin | Activated Vehicle Savegear @TanoaLife.Tanoa.pbo\Config_Master.hpp
+--------| Martin | ACE Mediacl Equipment added and TFAR Civilian Comms adapted @TanoaLife.Tanoa.pbo\Config_Weapons.hpp
+--------| Martin | Added 6 aditional BarGate Names to now 8 Bar Gates @TanoaLife.Tanoa.pbo\barGateRemote\barGate.sqf
+--------| Martin | Respawndelay set to 10 secounds @TanoaLife.Tanoa.pbo\core\configuration.sqf
+--------| Martin | Removed "#include dialog\hud_nameTag.hpp" @description.ext
+--------| Martin | Added Variable Names to Bar Gates @TanoaLife.Tanoa.pbo\mission.sqm
+0.0.1r3 | Tobi | Added Modded Buildings @TanoaLife.Tanoa.pbo\mission.sqm
